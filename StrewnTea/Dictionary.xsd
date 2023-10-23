@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Dictionary" targetNamespace="http://tempuri.org/Dictionary.xsd" xmlns:mstns="http://tempuri.org/Dictionary.xsd" xmlns="http://tempuri.org/Dictionary.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Dictionary" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Dictionary" msprop:Generator_DataSetName="Dictionary" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Main" msprop:Generator_UserTableName="Main" msprop:Generator_RowDeletedName="MainRowDeleted" msprop:Generator_RowChangedName="MainRowChanged" msprop:Generator_RowClassName="MainRow" msprop:Generator_RowChangingName="MainRowChanging" msprop:Generator_RowEvArgName="MainRowChangeEvent" msprop:Generator_RowEvHandlerName="MainRowChangeEventHandler" msprop:Generator_TableClassName="MainDataTable" msprop:Generator_TableVarName="tableMain" msprop:Generator_RowDeletingName="MainRowDeleting" msprop:Generator_TablePropName="Main">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="jieke" msprop:Generator_UserColumnName="jieke" msprop:Generator_ColumnVarNameInTable="columnjieke" msprop:Generator_ColumnPropNameInRow="jieke" msprop:Generator_ColumnPropNameInTable="jiekeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="hanzi" msprop:Generator_UserColumnName="hanzi" msprop:Generator_ColumnVarNameInTable="columnhanzi" msprop:Generator_ColumnPropNameInRow="hanzi" msprop:Generator_ColumnPropNameInTable="hanziColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="pinyin" msprop:Generator_UserColumnName="pinyin" msprop:Generator_ColumnVarNameInTable="columnpinyin" msprop:Generator_ColumnPropNameInRow="pinyin" msprop:Generator_ColumnPropNameInTable="pinyinColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="lesson" msprop:Generator_UserColumnName="lesson" msprop:Generator_ColumnVarNameInTable="columnlesson" msprop:Generator_ColumnPropNameInRow="lesson" msprop:Generator_ColumnPropNameInTable="lessonColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="learned" msprop:Generator_UserColumnName="learned" msprop:Generator_ColumnVarNameInTable="columnlearned" msprop:Generator_ColumnPropNameInRow="learned" msprop:Generator_ColumnPropNameInTable="learnedColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="tested" msprop:Generator_UserColumnName="tested" msprop:Generator_ColumnVarNameInTable="columntested" msprop:Generator_ColumnPropNameInRow="tested" msprop:Generator_ColumnPropNameInTable="testedColumn" type="xs:int" default="0" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1">
+      <xs:selector xpath=".//mstns:Main" />
+      <xs:field xpath="mstns:ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

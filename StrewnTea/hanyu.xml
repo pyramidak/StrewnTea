@@ -1,0 +1,4557 @@
+<?xml version="1.0" standalone="yes"?>
+<Dictionary xmlns="http://tempuri.org/Dictionary.xsd">
+  <Main>
+    <jieke>člověk, muž</jieke>
+    <hanzi>人</hanzi>
+    <pinyin>rén</pinyin>
+    <ID>1</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>žena</jieke>
+    <hanzi>女</hanzi>
+    <pinyin>nǚ</pinyin>
+    <ID>2</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ústa</jieke>
+    <hanzi>口</hanzi>
+    <pinyin>kŏu</pinyin>
+    <ID>3</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kůň</jieke>
+    <hanzi>马</hanzi>
+    <pinyin>mă</pinyin>
+    <ID>4</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>malá věc (dítě)</jieke>
+    <hanzi>子</hanzi>
+    <pinyin>zi</pinyin>
+    <ID>5</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ruka</jieke>
+    <hanzi>手</hanzi>
+    <pinyin>shŏu</pinyin>
+    <ID>6</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>déšť</jieke>
+    <hanzi>雨</hanzi>
+    <pinyin>yǚ</pinyin>
+    <ID>7</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>nůž, šavle</jieke>
+    <hanzi>刀</hanzi>
+    <pinyin>dāo</pinyin>
+    <ID>8</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>srdce</jieke>
+    <hanzi>心</hanzi>
+    <pinyin>xīn</pinyin>
+    <ID>9</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>numerativ (plochý v.)</jieke>
+    <hanzi>张</hanzi>
+    <pinyin>zhāng</pinyin>
+    <ID>782</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>bambus</jieke>
+    <hanzi>竹</hanzi>
+    <pinyin>zhú</pinyin>
+    <ID>10</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tráva</jieke>
+    <hanzi>草</hanzi>
+    <pinyin>căo</pinyin>
+    <ID>11</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tráva (po staru)</jieke>
+    <hanzi>艸</hanzi>
+    <pinyin>căo</pinyin>
+    <ID>395</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>měsíc</jieke>
+    <hanzi>月</hanzi>
+    <pinyin>yuè</pinyin>
+    <ID>12</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>maso</jieke>
+    <hanzi>肉</hanzi>
+    <pinyin>ròu</pinyin>
+    <ID>13</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dřevo</jieke>
+    <hanzi>木</hanzi>
+    <pinyin>mù</pinyin>
+    <ID>14</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>pole</jieke>
+    <hanzi>田</hanzi>
+    <pinyin>tián</pinyin>
+    <ID>16</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dychtivý</jieke>
+    <hanzi>敏</hanzi>
+    <pinyin>mĭn</pinyin>
+    <ID>17</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>elegantní</jieke>
+    <hanzi>彦</hanzi>
+    <pinyin>yàn</pinyin>
+    <ID>18</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vlaštovka</jieke>
+    <hanzi>燕</hanzi>
+    <pinyin>yàn</pinyin>
+    <ID>19</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jedna</jieke>
+    <hanzi>一</hanzi>
+    <pinyin>yī</pinyin>
+    <ID>1549</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dva</jieke>
+    <hanzi>二</hanzi>
+    <pinyin>èr</pinyin>
+    <ID>1551</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tři</jieke>
+    <hanzi>三</hanzi>
+    <pinyin>sān</pinyin>
+    <ID>1555</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>čtyři</jieke>
+    <hanzi>四</hanzi>
+    <pinyin>sì</pinyin>
+    <ID>1554</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>pět</jieke>
+    <hanzi>五</hanzi>
+    <pinyin>wŭ</pinyin>
+    <ID>1553</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>šest</jieke>
+    <hanzi>六</hanzi>
+    <pinyin>liù</pinyin>
+    <ID>1552</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>sedm</jieke>
+    <hanzi>七</hanzi>
+    <pinyin>qī</pinyin>
+    <ID>1550</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>osm</jieke>
+    <hanzi>八</hanzi>
+    <pinyin>bā</pinyin>
+    <ID>1548</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>devět</jieke>
+    <hanzi>九</hanzi>
+    <pinyin>jiŭ</pinyin>
+    <ID>1556</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>deset</jieke>
+    <hanzi>十</hanzi>
+    <pinyin>shí</pinyin>
+    <ID>1557</ID>
+    <lesson>0</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>topol</jieke>
+    <hanzi>杨</hanzi>
+    <pinyin>yáng</pinyin>
+    <ID>20</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>důstojnost</jieke>
+    <hanzi>达</hanzi>
+    <pinyin>dá</pinyin>
+    <ID>21</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>rychlost, běžet rychle</jieke>
+    <hanzi>驰</hanzi>
+    <pinyin>chí</pinyin>
+    <ID>22</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>já, mně</jieke>
+    <hanzi>我</hanzi>
+    <pinyin>wŏ</pinyin>
+    <ID>23</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ty, tobě</jieke>
+    <hanzi>你</hanzi>
+    <pinyin>nĭ</pinyin>
+    <ID>24</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ty (zdvořile), vy</jieke>
+    <hanzi>您</hanzi>
+    <pinyin>nín</pinyin>
+    <ID>25</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>on, jemu</jieke>
+    <hanzi>他</hanzi>
+    <pinyin>tā</pinyin>
+    <ID>26</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ona, jí</jieke>
+    <hanzi>她</hanzi>
+    <pinyin>tā</pinyin>
+    <ID>27</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>my, nám</jieke>
+    <hanzi>我们</hanzi>
+    <pinyin>wŏ men</pinyin>
+    <ID>28</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vy, vám</jieke>
+    <hanzi>你们</hanzi>
+    <pinyin>nĭ men</pinyin>
+    <ID>29</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>oni, jim</jieke>
+    <hanzi>他们</hanzi>
+    <pinyin>tā men</pinyin>
+    <ID>30</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ony, jim</jieke>
+    <hanzi>她们</hanzi>
+    <pinyin>tā men</pinyin>
+    <ID>31</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dobrý, dobře</jieke>
+    <hanzi>好</hanzi>
+    <pinyin>hăo</pinyin>
+    <ID>32</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>částice (tázací)</jieke>
+    <hanzi>吗</hanzi>
+    <pinyin>ma</pinyin>
+    <ID>33</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>velmi, být</jieke>
+    <hanzi>很</hanzi>
+    <pinyin>hĕn</pinyin>
+    <ID>34</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>také, ani</jieke>
+    <hanzi>也</hanzi>
+    <pinyin>yĕ</pinyin>
+    <ID>35</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>částice (co)</jieke>
+    <hanzi>呢</hanzi>
+    <pinyin>ne</pinyin>
+    <ID>36</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>otec</jieke>
+    <hanzi>爸爸</hanzi>
+    <pinyin>bà ba</pinyin>
+    <ID>37</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>matka, máma</jieke>
+    <hanzi>妈妈</hanzi>
+    <pinyin>mā ma</pinyin>
+    <ID>38</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>čínský</jieke>
+    <hanzi>汉</hanzi>
+    <pinyin>hàn</pinyin>
+    <ID>39</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>písmeno, znak</jieke>
+    <hanzi>字</hanzi>
+    <pinyin>zì</pinyin>
+    <ID>40</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>čínské znaky</jieke>
+    <hanzi>汉字</hanzi>
+    <pinyin>hàn zì</pinyin>
+    <ID>41</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>záchod</jieke>
+    <hanzi>厕</hanzi>
+    <pinyin>cè</pinyin>
+    <ID>42</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>místnost</jieke>
+    <hanzi>所</hanzi>
+    <pinyin>suŏ</pinyin>
+    <ID>43</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>toaleta</jieke>
+    <hanzi>厕所</hanzi>
+    <pinyin>cè suŏ</pinyin>
+    <ID>44</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zaneprázdněn</jieke>
+    <hanzi>忙</hanzi>
+    <pinyin>máng</pinyin>
+    <ID>45</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ne, záporka</jieke>
+    <hanzi>不</hanzi>
+    <pinyin>bù</pinyin>
+    <ID>46</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ptát, zeptat, tázat</jieke>
+    <hanzi>问</hanzi>
+    <pinyin>wèn</pinyin>
+    <ID>47</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>pozdravit, pozdrav</jieke>
+    <hanzi>问好</hanzi>
+    <pinyin>wèn hăo</pinyin>
+    <ID>48</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dobrý den</jieke>
+    <hanzi>你好</hanzi>
+    <pinyin>nĭ hăo</pinyin>
+    <ID>49</ID>
+    <lesson>1</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>brzy</jieke>
+    <hanzi>早</hanzi>
+    <pinyin>zăo</pinyin>
+    <ID>50</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ráno</jieke>
+    <hanzi>早上</hanzi>
+    <pinyin>zăo shang</pinyin>
+    <ID>51</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dobré ráno</jieke>
+    <hanzi>早上好</hanzi>
+    <pinyin>zăo shang hăo</pinyin>
+    <ID>52</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>pozdě, noc</jieke>
+    <hanzi>晚</hanzi>
+    <pinyin>wăn</pinyin>
+    <ID>53</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>večer</jieke>
+    <hanzi>晚上</hanzi>
+    <pinyin>wăn shang</pinyin>
+    <ID>54</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dobrý večer</jieke>
+    <hanzi>晚上好</hanzi>
+    <pinyin>wăn shang hăo</pinyin>
+    <ID>55</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>utišit, mír, uklidnit</jieke>
+    <hanzi>安</hanzi>
+    <pinyin>ān</pinyin>
+    <ID>56</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dobrou noc</jieke>
+    <hanzi>晚安</hanzi>
+    <pinyin>wăn ān</pinyin>
+    <ID>57</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>opět</jieke>
+    <hanzi>再</hanzi>
+    <pinyin>zài</pinyin>
+    <ID>58</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vidět, potkat</jieke>
+    <hanzi>见</hanzi>
+    <pinyin>jiàn</pinyin>
+    <ID>59</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>nashledanou</jieke>
+    <hanzi>再见</hanzi>
+    <pinyin>zài jiàn</pinyin>
+    <ID>60</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>děkuji</jieke>
+    <hanzi>谢谢</hanzi>
+    <pinyin>xiè xie</pinyin>
+    <ID>61</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>host</jieke>
+    <hanzi>客人</hanzi>
+    <pinyin>kè rén</pinyin>
+    <ID>62</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zdvořilý, slušný</jieke>
+    <hanzi>客气</hanzi>
+    <pinyin>kè qi</pinyin>
+    <ID>63</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>prosím, neslušný</jieke>
+    <hanzi>不客气</hanzi>
+    <pinyin>bú kè qi</pinyin>
+    <ID>64</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>použít</jieke>
+    <hanzi>用</hanzi>
+    <pinyin>yòng</pinyin>
+    <ID>65</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>prosím, neděkujte</jieke>
+    <hanzi>不用谢</hanzi>
+    <pinyin>bú yòng xiè</pinyin>
+    <ID>66</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>reagovat, správně</jieke>
+    <hanzi>对</hanzi>
+    <pinyin>duì</pinyin>
+    <ID>67</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zvedat, vstát</jieke>
+    <hanzi>起</hanzi>
+    <pinyin>qĭ</pinyin>
+    <ID>68</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>omlouvám se</jieke>
+    <hanzi>对不起</hanzi>
+    <pinyin>duì bu qĭ</pinyin>
+    <ID>69</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>uzavřít</jieke>
+    <hanzi>关</hanzi>
+    <pinyin>guān</pinyin>
+    <ID>70</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>spojení</jieke>
+    <hanzi>系</hanzi>
+    <pinyin>xì</pinyin>
+    <ID>71</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>konexe, vztah</jieke>
+    <hanzi>关系</hanzi>
+    <pinyin>guān xi</pinyin>
+    <ID>72</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>nic se nestalo</jieke>
+    <hanzi>没关系</hanzi>
+    <pinyin>méi guān xi</pinyin>
+    <ID>73</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>první</jieke>
+    <hanzi>先</hanzi>
+    <pinyin>xiān</pinyin>
+    <ID>74</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>narodit, život</jieke>
+    <hanzi>生</hanzi>
+    <pinyin>shēng</pinyin>
+    <ID>75</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>pan, manžel</jieke>
+    <hanzi>先生</hanzi>
+    <pinyin>xiān shēng</pinyin>
+    <ID>76</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>malý, mladý</jieke>
+    <hanzi>小</hanzi>
+    <pinyin>xiăo</pinyin>
+    <ID>77</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>starší sestra</jieke>
+    <hanzi>姐</hanzi>
+    <pinyin>jiĕ</pinyin>
+    <ID>78</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mladá paní, slečna</jieke>
+    <hanzi>小姐</hanzi>
+    <pinyin>xiào jie</pinyin>
+    <ID>79</ID>
+    <lesson>2</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>lekce</jieke>
+    <hanzi>课</hanzi>
+    <pinyin>kè</pinyin>
+    <ID>1534</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>jih</jieke>
+    <hanzi>南</hanzi>
+    <pinyin>nán</pinyin>
+    <ID>1535</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>starší, velký, obrovský</jieke>
+    <hanzi>大</hanzi>
+    <pinyin>dà</pinyin>
+    <ID>1536</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>příliš</jieke>
+    <hanzi>太</hanzi>
+    <pinyin>tài</pinyin>
+    <ID>80</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>žena, manželka</jieke>
+    <hanzi>太太</hanzi>
+    <pinyin>tài tai</pinyin>
+    <ID>81</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>žena, manželka</jieke>
+    <hanzi>夫人</hanzi>
+    <pinyin>fū ren</pinyin>
+    <ID>82</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>představit se</jieke>
+    <hanzi>介绍</hanzi>
+    <pinyin>jiè shào</pinyin>
+    <ID>83</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>of (jako v anj)</jieke>
+    <hanzi>的</hanzi>
+    <pinyin>de (čti D)</pinyin>
+    <ID>84</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jmenovat se (křest.)</jieke>
+    <hanzi>叫</hanzi>
+    <pinyin>jiào</pinyin>
+    <ID>85</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>být, je</jieke>
+    <hanzi>是</hanzi>
+    <pinyin>shì</pinyin>
+    <ID>86</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jmenovat se (příjme.)</jieke>
+    <hanzi>姓</hanzi>
+    <pinyin>xìng</pinyin>
+    <ID>87</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jméno (celé)</jieke>
+    <hanzi>姓名</hanzi>
+    <pinyin>xìng míng</pinyin>
+    <ID>88</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jméno (celé)</jieke>
+    <hanzi>名字</hanzi>
+    <pinyin>míng zi</pinyin>
+    <ID>89</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ctěný, drahý</jieke>
+    <hanzi>贵</hanzi>
+    <pinyin>guì</pinyin>
+    <ID>90</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>co, jaký</jieke>
+    <hanzi>什么</hanzi>
+    <pinyin>shén me</pinyin>
+    <ID>91</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kdo</jieke>
+    <hanzi>谁</hanzi>
+    <pinyin>shéi (shuí)</pinyin>
+    <ID>92</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>kamarád</jieke>
+    <hanzi>朋友</hanzi>
+    <pinyin>péng you</pinyin>
+    <ID>93</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>učitel</jieke>
+    <hanzi>老师</hanzi>
+    <pinyin>lăo shī</pinyin>
+    <ID>94</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>doktor</jieke>
+    <hanzi>医生</hanzi>
+    <pinyin>yī shēng</pinyin>
+    <ID>95</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>který</jieke>
+    <hanzi>哪</hanzi>
+    <pinyin>nă</pinyin>
+    <ID>96</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>země, stát</jieke>
+    <hanzi>国</hanzi>
+    <pinyin>guó</pinyin>
+    <ID>97</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jazyk, řeč</jieke>
+    <hanzi>语</hanzi>
+    <pinyin>yǚ</pinyin>
+    <ID>98</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>mluvit, slovo</jieke>
+    <hanzi>言</hanzi>
+    <pinyin>yán</pinyin>
+    <ID>99</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>jazyk, řeč</jieke>
+    <hanzi>语言</hanzi>
+    <pinyin>yǚ yán</pinyin>
+    <ID>100</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>střed, Čína</jieke>
+    <hanzi>中</hanzi>
+    <pinyin>zhōng</pinyin>
+    <ID>101</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>velkolepý, Čína</jieke>
+    <hanzi>华</hanzi>
+    <pinyin>huá</pinyin>
+    <ID>102</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Čína (formálně)</jieke>
+    <hanzi>中华</hanzi>
+    <pinyin>zhōng huá</pinyin>
+    <ID>103</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>národnost, občan</jieke>
+    <hanzi>民</hanzi>
+    <pinyin>mín</pinyin>
+    <ID>104</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>lid, lidový</jieke>
+    <hanzi>人民</hanzi>
+    <pinyin>rén mín</pinyin>
+    <ID>105</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>celkem, sdílet</jieke>
+    <hanzi>共</hanzi>
+    <pinyin>gòng</pinyin>
+    <ID>106</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mír, unie, a</jieke>
+    <hanzi>和</hanzi>
+    <pinyin>hé</pinyin>
+    <ID>107</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>republika</jieke>
+    <hanzi>共和国</hanzi>
+    <pinyin>gòng hé guó</pinyin>
+    <ID>108</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hláska, sázet</jieke>
+    <hanzi>拼</hanzi>
+    <pinyin>pīn</pinyin>
+    <ID>109</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zvuk, hluk, výslovnost</jieke>
+    <hanzi>音</hanzi>
+    <pinyin>yīn</pinyin>
+    <ID>110</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hláskování</jieke>
+    <hanzi>拼音</hanzi>
+    <pinyin>pīn yīn</pinyin>
+    <ID>111</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Velká Británie, Anglie</jieke>
+    <hanzi>英国</hanzi>
+    <pinyin>yīng guó</pinyin>
+    <ID>112</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>angličtina</jieke>
+    <hanzi>英语</hanzi>
+    <pinyin>yīng yǚ</pinyin>
+    <ID>113</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>USA, Amerika</jieke>
+    <hanzi>美国</hanzi>
+    <pinyin>mĕi guó</pinyin>
+    <ID>114</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Čech</jieke>
+    <hanzi>捷克人</hanzi>
+    <pinyin>jié kè rén</pinyin>
+    <ID>115</ID>
+    <lesson>3</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>rok</jieke>
+    <hanzi>年</hanzi>
+    <pinyin>nián</pinyin>
+    <ID>116</ID>
+    <lesson>3</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>chlup, halíř (hovor.)</jieke>
+    <hanzi>毛</hanzi>
+    <pinyin>máo</pinyin>
+    <ID>117</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>toto</jieke>
+    <hanzi>这</hanzi>
+    <pinyin>zhè (zhèi)</pinyin>
+    <ID>118</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tamto</jieke>
+    <hanzi>那</hanzi>
+    <pinyin>nà (nèi)</pinyin>
+    <ID>119</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>numerativ</jieke>
+    <hanzi>个</hanzi>
+    <pinyin>gè (čti G)</pinyin>
+    <ID>120</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>numerativ (knih)</jieke>
+    <hanzi>本</hanzi>
+    <pinyin>bĕn</pinyin>
+    <ID>121</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kniha</jieke>
+    <hanzi>书</hanzi>
+    <pinyin>shū</pinyin>
+    <ID>122</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>voda</jieke>
+    <hanzi>水</hanzi>
+    <pinyin>shuĭ</pinyin>
+    <ID>123</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>štětec</jieke>
+    <hanzi>毛笔</hanzi>
+    <pinyin>máo bĭ</pinyin>
+    <ID>124</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tuha, grafit, olovo</jieke>
+    <hanzi>铅</hanzi>
+    <pinyin>qiān</pinyin>
+    <ID>125</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tužka</jieke>
+    <hanzi>铅笔</hanzi>
+    <pinyin>qiān bĭ</pinyin>
+    <ID>126</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kruh, yüan</jieke>
+    <hanzi>圆</hanzi>
+    <pinyin>yuán</pinyin>
+    <ID>127</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>perla</jieke>
+    <hanzi>珠</hanzi>
+    <pinyin>zhū</pinyin>
+    <ID>128</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>propiska</jieke>
+    <hanzi>圆珠笔</hanzi>
+    <pinyin>yuán zhū bĭ</pinyin>
+    <ID>129</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>čaj</jieke>
+    <hanzi>茶</hanzi>
+    <pinyin>chá</pinyin>
+    <ID>130</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zelený čaj</jieke>
+    <hanzi>绿茶</hanzi>
+    <pinyin>lǜ chá</pinyin>
+    <ID>131</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>černý čaj</jieke>
+    <hanzi>红茶</hanzi>
+    <pinyin>hóng chá</pinyin>
+    <ID>132</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>polofermentovaný čaj</jieke>
+    <hanzi>乌龙茶</hanzi>
+    <pinyin>wū lóng chá</pinyin>
+    <ID>133</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jasmínový čaj</jieke>
+    <hanzi>茉莉花茶</hanzi>
+    <pinyin>mò lì huā chá</pinyin>
+    <ID>134</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kafe</jieke>
+    <hanzi>咖啡</hanzi>
+    <pinyin>kā fēi</pinyin>
+    <ID>135</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>elektrický</jieke>
+    <hanzi>电</hanzi>
+    <pinyin>diàn</pinyin>
+    <ID>136</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>televize</jieke>
+    <hanzi>电视</hanzi>
+    <pinyin>diàn shì</pinyin>
+    <ID>137</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>telefon</jieke>
+    <hanzi>电话</hanzi>
+    <pinyin>diàn huà</pinyin>
+    <ID>139</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mozek</jieke>
+    <hanzi>脑</hanzi>
+    <pinyin>năo</pinyin>
+    <ID>140</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>numerativ (pro pc)</jieke>
+    <hanzi>台</hanzi>
+    <pinyin>tái</pinyin>
+    <ID>141</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>počítač</jieke>
+    <hanzi>电脑</hanzi>
+    <pinyin>diàn năo</pinyin>
+    <ID>142</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>květina, květ, kytka</jieke>
+    <hanzi>花</hanzi>
+    <pinyin>huā</pinyin>
+    <ID>143</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>elegantní, bankovka</jieke>
+    <hanzi>漂</hanzi>
+    <pinyin>piào</pinyin>
+    <ID>144</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>světlý</jieke>
+    <hanzi>亮</hanzi>
+    <pinyin>liàng</pinyin>
+    <ID>145</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>krásná</jieke>
+    <hanzi>漂亮</hanzi>
+    <pinyin>piào liang</pinyin>
+    <ID>146</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>létat</jieke>
+    <hanzi>飞</hanzi>
+    <pinyin>fēi</pinyin>
+    <ID>147</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>stroj</jieke>
+    <hanzi>机</hanzi>
+    <pinyin>jī</pinyin>
+    <ID>148</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>letadlo, let</jieke>
+    <hanzi>飞机</hanzi>
+    <pinyin>fēi jī</pinyin>
+    <ID>149</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>král</jieke>
+    <hanzi>王</hanzi>
+    <pinyin>wáng</pinyin>
+    <ID>150</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>švestka</jieke>
+    <hanzi>李</hanzi>
+    <pinyin>lĭ</pinyin>
+    <ID>151</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jméno (zabít)</jieke>
+    <hanzi>刘</hanzi>
+    <pinyin>liú</pinyin>
+    <ID>152</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>haló (do tele.)</jieke>
+    <hanzi>喂</hanzi>
+    <pinyin>wèi</pinyin>
+    <ID>153</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>slunce</jieke>
+    <hanzi>日</hanzi>
+    <pinyin>rì</pinyin>
+    <ID>154</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Japonsko</jieke>
+    <hanzi>日本</hanzi>
+    <pinyin>rì bĕn</pinyin>
+    <ID>155</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Evropa</jieke>
+    <hanzi>欧洲</hanzi>
+    <pinyin>ōu zhōu</pinyin>
+    <ID>156</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Asie</jieke>
+    <hanzi>亚洲</hanzi>
+    <pinyin>yà zhōu</pinyin>
+    <ID>157</ID>
+    <lesson>4</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Praha</jieke>
+    <hanzi>布拉格</hanzi>
+    <pinyin>bù lā gé</pinyin>
+    <ID>158</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Peking</jieke>
+    <hanzi>北京</hanzi>
+    <pinyin>bĕi jīng</pinyin>
+    <ID>159</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>západ</jieke>
+    <hanzi>西</hanzi>
+    <pinyin>xī</pinyin>
+    <ID>160</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Xian</jieke>
+    <hanzi>西安</hanzi>
+    <pinyin>xī ān</pinyin>
+    <ID>161</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hlína</jieke>
+    <hanzi>土</hanzi>
+    <pinyin>tŭ</pinyin>
+    <ID>162</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>odejít, jít</jieke>
+    <hanzi>走</hanzi>
+    <pinyin>zŏu</pinyin>
+    <ID>163</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>syn</jieke>
+    <hanzi>儿子</hanzi>
+    <pinyin>èr zi</pinyin>
+    <ID>164</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dítě</jieke>
+    <hanzi>孩子</hanzi>
+    <pinyin>hài zi</pinyin>
+    <ID>165</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>starší, starý</jieke>
+    <hanzi>老</hanzi>
+    <pinyin>lăo</pinyin>
+    <ID>166</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mistr</jieke>
+    <hanzi>老子</hanzi>
+    <pinyin>lăo zi</pinyin>
+    <ID>167</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>studna</jieke>
+    <hanzi>井</hanzi>
+    <pinyin>jĭng</pinyin>
+    <ID>168</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zápor (+min.čas)</jieke>
+    <hanzi>没</hanzi>
+    <pinyin>méi</pinyin>
+    <ID>169</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hlídat, dohlížet, starat</jieke>
+    <hanzi>看</hanzi>
+    <pinyin>kān</pinyin>
+    <ID>170</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dveře, brána</jieke>
+    <hanzi>门</hanzi>
+    <pinyin>mén</pinyin>
+    <ID>171</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vrátný</jieke>
+    <hanzi>看门的</hanzi>
+    <pinyin>kān mén de</pinyin>
+    <ID>172</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>poledne</jieke>
+    <hanzi>午</hanzi>
+    <pinyin>wŭ</pinyin>
+    <ID>173</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dopoledne</jieke>
+    <hanzi>上午</hanzi>
+    <pinyin>shàng wŭ</pinyin>
+    <ID>174</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>poledne</jieke>
+    <hanzi>中午</hanzi>
+    <pinyin>zhōng wŭ</pinyin>
+    <ID>175</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>odpoledne</jieke>
+    <hanzi>下午</hanzi>
+    <pinyin>xià wŭ</pinyin>
+    <ID>176</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>den, obloha</jieke>
+    <hanzi>天</hanzi>
+    <pinyin>tiān</pinyin>
+    <ID>177</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>včera</jieke>
+    <hanzi>昨天</hanzi>
+    <pinyin>zuó tiān</pinyin>
+    <ID>178</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dnes</jieke>
+    <hanzi>今天</hanzi>
+    <pinyin>jīn tiān</pinyin>
+    <ID>179</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zítra</jieke>
+    <hanzi>明天</hanzi>
+    <pinyin>míng tiān</pinyin>
+    <ID>180</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jet do, jít do</jieke>
+    <hanzi>去</hanzi>
+    <pinyin>qǜ</pinyin>
+    <ID>181</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>přijít, přijet, dát si</jieke>
+    <hanzi>来</hanzi>
+    <pinyin>lái</pinyin>
+    <ID>182</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vrátit se</jieke>
+    <hanzi>回</hanzi>
+    <pinyin>huí</pinyin>
+    <ID>183</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>číst, dívat se (po)</jieke>
+    <hanzi>看</hanzi>
+    <pinyin>kàn</pinyin>
+    <ID>184</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mít, být, nějaký</jieke>
+    <hanzi>有</hanzi>
+    <pinyin>yŏu</pinyin>
+    <ID>185</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>být v, čas (průběh.)</jieke>
+    <hanzi>在</hanzi>
+    <pinyin>zài</pinyin>
+    <ID>186</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vstoupit</jieke>
+    <hanzi>进</hanzi>
+    <pinyin>jìn</pinyin>
+    <ID>187</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>prosit, pozvat</jieke>
+    <hanzi>请</hanzi>
+    <pinyin>qĭng</pinyin>
+    <ID>188</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>prosím vstupte</jieke>
+    <hanzi>请进</hanzi>
+    <pinyin>qĭng jìn</pinyin>
+    <ID>189</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mohu se zeptat</jieke>
+    <hanzi>请问</hanzi>
+    <pinyin>qĭng wèn</pinyin>
+    <ID>190</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Microsoft</jieke>
+    <hanzi>微软</hanzi>
+    <pinyin>wēi ruăn</pinyin>
+    <ID>191</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>obchod</jieke>
+    <hanzi>商店</hanzi>
+    <pinyin>shāng diàn</pinyin>
+    <ID>192</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>knihkupectví</jieke>
+    <hanzi>书店</hanzi>
+    <pinyin>shū diàn</pinyin>
+    <ID>193</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>obchodník</jieke>
+    <hanzi>商人</hanzi>
+    <pinyin>shāng rén</pinyin>
+    <ID>194</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>trh (malý)</jieke>
+    <hanzi>市</hanzi>
+    <pinyin>shì</pinyin>
+    <ID>195</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>nádvoří, prostor</jieke>
+    <hanzi>场</hanzi>
+    <pinyin>chăng</pinyin>
+    <ID>196</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tržnice, trh</jieke>
+    <hanzi>市场</hanzi>
+    <pinyin>shì chăng</pinyin>
+    <ID>197</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>supermarket</jieke>
+    <hanzi>超市</hanzi>
+    <pinyin>chāo shì</pinyin>
+    <ID>198</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>superman</jieke>
+    <hanzi>超人</hanzi>
+    <pinyin>chāo rén</pinyin>
+    <ID>199</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>podnik, společnost</jieke>
+    <hanzi>公司</hanzi>
+    <pinyin>gōng sī</pinyin>
+    <ID>200</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>domov, numerativ</jieke>
+    <hanzi>家</hanzi>
+    <pinyin>jiā</pinyin>
+    <ID>201</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>rodina</jieke>
+    <hanzi>家庭</hanzi>
+    <pinyin>jiā tíng</pinyin>
+    <ID>202</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>rodina</jieke>
+    <hanzi>一家人</hanzi>
+    <pinyin>yī jiā rén</pinyin>
+    <ID>203</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>šálek, sklenka</jieke>
+    <hanzi>杯子</hanzi>
+    <pinyin>bēi zi</pinyin>
+    <ID>204</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>na zdraví</jieke>
+    <hanzi>干杯</hanzi>
+    <pinyin>gān bēi</pinyin>
+    <ID>205</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>nume (množné. čísla)</jieke>
+    <hanzi>些</hanzi>
+    <pinyin>xiē</pinyin>
+    <ID>206</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>sešit</jieke>
+    <hanzi>本子</hanzi>
+    <pinyin>bĕn zi</pinyin>
+    <ID>207</ID>
+    <lesson>5</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>pracovat, práce</jieke>
+    <hanzi>工作</hanzi>
+    <pinyin>gōng zuò</pinyin>
+    <ID>208</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dělník</jieke>
+    <hanzi>工人</hanzi>
+    <pinyin>gōng rén</pinyin>
+    <ID>209</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zde, tady</jieke>
+    <hanzi>这里</hanzi>
+    <pinyin>zhè li</pinyin>
+    <ID>210</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tam</jieke>
+    <hanzi>那里</hanzi>
+    <pinyin>nà li</pinyin>
+    <ID>211</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kde, kam</jieke>
+    <hanzi>哪里</hanzi>
+    <pinyin>nă li</pinyin>
+    <ID>212</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>měl by</jieke>
+    <hanzi>该</hanzi>
+    <pinyin>gāi</pinyin>
+    <ID>213</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zemřít</jieke>
+    <hanzi>死</hanzi>
+    <pinyin>sĭ</pinyin>
+    <ID>214</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>sakra, zatracený</jieke>
+    <hanzi>该死的</hanzi>
+    <pinyin>gāi sĭ de</pinyin>
+    <ID>215</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>idiot</jieke>
+    <hanzi>傻子</hanzi>
+    <pinyin>shă zi</pinyin>
+    <ID>216</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vajíčko, vejce</jieke>
+    <hanzi>蛋</hanzi>
+    <pinyin>dàn</pinyin>
+    <ID>217</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>blbý</jieke>
+    <hanzi>笨</hanzi>
+    <pinyin>bèn</pinyin>
+    <ID>218</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>blbec</jieke>
+    <hanzi>笨蛋</hanzi>
+    <pinyin>bèn dàn</pinyin>
+    <ID>219</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zabít</jieke>
+    <hanzi>杀</hanzi>
+    <pinyin>shā</pinyin>
+    <ID>220</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Šanghai</jieke>
+    <hanzi>上海</hanzi>
+    <pinyin>shàng hăi</pinyin>
+    <ID>221</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>drak</jieke>
+    <hanzi>龙</hanzi>
+    <pinyin>lóng</pinyin>
+    <ID>222</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>uchovat</jieke>
+    <hanzi>保</hanzi>
+    <pinyin>băo</pinyin>
+    <ID>223</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kvalita</jieke>
+    <hanzi>质</hanzi>
+    <pinyin>zhì</pinyin>
+    <ID>224</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>období</jieke>
+    <hanzi>期</hanzi>
+    <pinyin>qī</pinyin>
+    <ID>225</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>spotřebovat do</jieke>
+    <hanzi>保质期</hanzi>
+    <pinyin>băo zhì qī</pinyin>
+    <ID>226</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vyrobeno</jieke>
+    <hanzi>生产</hanzi>
+    <pinyin>shēng chăn</pinyin>
+    <ID>227</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>datum</jieke>
+    <hanzi>日期</hanzi>
+    <pinyin>rì qī</pinyin>
+    <ID>228</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hranice, strana</jieke>
+    <hanzi>边</hanzi>
+    <pinyin>biān</pinyin>
+    <ID>229</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vlevo</jieke>
+    <hanzi>左边</hanzi>
+    <pinyin>zuŏ biān</pinyin>
+    <ID>230</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vpravo</jieke>
+    <hanzi>右边</hanzi>
+    <pinyin>yòu biān</pinyin>
+    <ID>231</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>psč</jieke>
+    <hanzi>邮编</hanzi>
+    <pinyin>yóu biān</pinyin>
+    <ID>232</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>široký, šířit</jieke>
+    <hanzi>广</hanzi>
+    <pinyin>guăng</pinyin>
+    <ID>233</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>náměstí</jieke>
+    <hanzi>广场</hanzi>
+    <pinyin>guăng chăng</pinyin>
+    <ID>234</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>sever</jieke>
+    <hanzi>北</hanzi>
+    <pinyin>bĕi</pinyin>
+    <ID>235</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hlavní, centrum</jieke>
+    <hanzi>京</hanzi>
+    <pinyin>jīng</pinyin>
+    <ID>236</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>gram</jieke>
+    <hanzi>克</hanzi>
+    <pinyin>kè</pinyin>
+    <ID>237</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>chtít, něco třeba</jieke>
+    <hanzi>要</hanzi>
+    <pinyin>yào</pinyin>
+    <ID>238</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>láhev</jieke>
+    <hanzi>瓶子</hanzi>
+    <pinyin>píng zi</pinyin>
+    <ID>239</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hodně</jieke>
+    <hanzi>多</hanzi>
+    <pinyin>duō</pinyin>
+    <ID>240</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>málo, nedostatek</jieke>
+    <hanzi>少</hanzi>
+    <pinyin>shăo</pinyin>
+    <ID>241</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kolik</jieke>
+    <hanzi>多少</hanzi>
+    <pinyin>duō shao</pinyin>
+    <ID>242</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kolik (do 12)</jieke>
+    <hanzi>几</hanzi>
+    <pinyin>jĭ</pinyin>
+    <ID>243</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kov</jieke>
+    <hanzi>金</hanzi>
+    <pinyin>jīn</pinyin>
+    <ID>244</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>peníze</jieke>
+    <hanzi>钱</hanzi>
+    <pinyin>qián</pinyin>
+    <ID>245</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>alkohol</jieke>
+    <hanzi>酒</hanzi>
+    <pinyin>jiŭ</pinyin>
+    <ID>246</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>bar</jieke>
+    <hanzi>酒吧</hanzi>
+    <pinyin>jiŭ bā</pinyin>
+    <ID>247</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hotel</jieke>
+    <hanzi>酒店</hanzi>
+    <pinyin>jiŭ diàn</pinyin>
+    <ID>248</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>pivo</jieke>
+    <hanzi>啤酒</hanzi>
+    <pinyin>pí jiŭ</pinyin>
+    <ID>249</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hroznové víno</jieke>
+    <hanzi>葡萄</hanzi>
+    <pinyin>pú táo</pinyin>
+    <ID>250</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>víno</jieke>
+    <hanzi>葡萄酒</hanzi>
+    <pinyin>pú táo jiŭ</pinyin>
+    <ID>251</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>bílý</jieke>
+    <hanzi>白</hanzi>
+    <pinyin>bái</pinyin>
+    <ID>252</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>červený</jieke>
+    <hanzi>红</hanzi>
+    <pinyin>hóng</pinyin>
+    <ID>253</ID>
+    <lesson>6</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>zelený</jieke>
+    <hanzi>绿</hanzi>
+    <pinyin>lǜ</pinyin>
+    <ID>254</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>černý, vrána</jieke>
+    <hanzi>乌</hanzi>
+    <pinyin>wū</pinyin>
+    <ID>255</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>destilát</jieke>
+    <hanzi>白酒</hanzi>
+    <pinyin>bái jiŭ</pinyin>
+    <ID>256</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>rýže</jieke>
+    <hanzi>米</hanzi>
+    <pinyin>mĭ</pinyin>
+    <ID>257</ID>
+    <lesson>6</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>pít</jieke>
+    <hanzi>喝</hanzi>
+    <pinyin>hē (kch)</pinyin>
+    <ID>258</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dát (komu)</jieke>
+    <hanzi>给</hanzi>
+    <pinyin>gĕi</pinyin>
+    <ID>259</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>coca, chutný</jieke>
+    <hanzi>可口</hanzi>
+    <pinyin>kĕ kŏu</pinyin>
+    <ID>260</ID>
+    <lesson>7</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>cola</jieke>
+    <hanzi>可乐</hanzi>
+    <pinyin>kĕ lè</pinyin>
+    <ID>261</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>sníh</jieke>
+    <hanzi>雪</hanzi>
+    <pinyin>xuĕ</pinyin>
+    <ID>262</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>sprite</jieke>
+    <hanzi>雪碧</hanzi>
+    <pinyin>xuĕ bì</pinyin>
+    <ID>263</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>těžit, ruda</jieke>
+    <hanzi>矿</hanzi>
+    <pinyin>kuàng</pinyin>
+    <ID>264</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>pramen</jieke>
+    <hanzi>泉</hanzi>
+    <pinyin>quán</pinyin>
+    <ID>265</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>minerální voda</jieke>
+    <hanzi>矿泉水</hanzi>
+    <pinyin>kuàng quán shuĭ</pinyin>
+    <ID>266</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jíst</jieke>
+    <hanzi>吃</hanzi>
+    <pinyin>chī</pinyin>
+    <ID>267</ID>
+    <lesson>7</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>kuřecí maso</jieke>
+    <hanzi>鸡肉</hanzi>
+    <pinyin>jī ròu</pinyin>
+    <ID>268</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>samec, muž</jieke>
+    <hanzi>男</hanzi>
+    <pinyin>nán</pinyin>
+    <ID>269</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>samice, matka</jieke>
+    <hanzi>母</hanzi>
+    <pinyin>mŭ</pinyin>
+    <ID>270</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>slepice</jieke>
+    <hanzi>母鸡</hanzi>
+    <pinyin>mŭ jī</pinyin>
+    <ID>271</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ocas</jieke>
+    <hanzi>尾巴</hanzi>
+    <pinyin>wĕi ba</pinyin>
+    <ID>272</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>koktejl</jieke>
+    <hanzi>鸡尾酒</hanzi>
+    <pinyin>jī wĕi jiŭ</pinyin>
+    <ID>273</ID>
+    <lesson>7</lesson>
+    <learned>false</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>omáčka, džem</jieke>
+    <hanzi>酱</hanzi>
+    <pinyin>jiāng</pinyin>
+    <ID>274</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jídlo</jieke>
+    <hanzi>饭</hanzi>
+    <pinyin>fàn</pinyin>
+    <ID>275</ID>
+    <lesson>7</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>rajče</jieke>
+    <hanzi>番茄</hanzi>
+    <pinyin>fān qié</pinyin>
+    <ID>276</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kečup</jieke>
+    <hanzi>番茄酱</hanzi>
+    <pinyin>fān qié jiāng</pinyin>
+    <ID>277</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vozidlo, vůz</jieke>
+    <hanzi>车</hanzi>
+    <pinyin>chē</pinyin>
+    <ID>278</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>otevřít</jieke>
+    <hanzi>开</hanzi>
+    <pinyin>kāi</pinyin>
+    <ID>279</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>být šťastný, rád</jieke>
+    <hanzi>开心</hanzi>
+    <pinyin>kāi xīn</pinyin>
+    <ID>280</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>měj se hezky</jieke>
+    <hanzi>开开心心</hanzi>
+    <pinyin>kāi kāi xīn xīn</pinyin>
+    <ID>281</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>čas jídla (oběda)</jieke>
+    <hanzi>开饭了</hanzi>
+    <pinyin>kāi fān le</pinyin>
+    <ID>282</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>bratr</jieke>
+    <hanzi>兄弟</hanzi>
+    <pinyin>xiōng dì</pinyin>
+    <ID>283</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>sestra</jieke>
+    <hanzi>姐妹</hanzi>
+    <pinyin>jiĕ mèi</pinyin>
+    <ID>284</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>sourozenec</jieke>
+    <hanzi>兄弟姐妹</hanzi>
+    <pinyin>xiōng dì jiĕ mèi</pinyin>
+    <ID>285</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>starší bratr</jieke>
+    <hanzi>哥哥</hanzi>
+    <pinyin>gē ge (kg)</pinyin>
+    <ID>286</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mladší bratr</jieke>
+    <hanzi>弟弟</hanzi>
+    <pinyin>dì di (titi)</pinyin>
+    <ID>287</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>starší sestra</jieke>
+    <hanzi>姐姐</hanzi>
+    <pinyin>jiĕ jie</pinyin>
+    <ID>288</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mladší sestra</jieke>
+    <hanzi>妹妹</hanzi>
+    <pinyin>mèi mei (mejme)</pinyin>
+    <ID>289</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dcera</jieke>
+    <hanzi>女儿</hanzi>
+    <pinyin>nǚ ér</pinyin>
+    <ID>290</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>cigareta</jieke>
+    <hanzi>烟</hanzi>
+    <pinyin>yān</pinyin>
+    <ID>291</ID>
+    <lesson>7</lesson>
+    <learned>false</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>démon</jieke>
+    <hanzi>鬼</hanzi>
+    <pinyin>guĭ</pinyin>
+    <ID>292</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ožrala, opilec</jieke>
+    <hanzi>酒鬼</hanzi>
+    <pinyin>jiŭ guĭ</pinyin>
+    <ID>293</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kuřák, závislák</jieke>
+    <hanzi>烟鬼</hanzi>
+    <pinyin>yān guĭ</pinyin>
+    <ID>294</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>baklažán, cheers</jieke>
+    <hanzi>茄子</hanzi>
+    <pinyin>qié zi</pinyin>
+    <ID>295</ID>
+    <lesson>7</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>krasavice</jieke>
+    <hanzi>美女</hanzi>
+    <pinyin>mĕi nǚ</pinyin>
+    <ID>296</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>velitel, velet</jieke>
+    <hanzi>帅</hanzi>
+    <pinyin>shuaì</pinyin>
+    <ID>297</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>krasavec</jieke>
+    <hanzi>帅哥</hanzi>
+    <pinyin>shuài gē</pinyin>
+    <ID>298</ID>
+    <lesson>7</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>místo, země</jieke>
+    <hanzi>地</hanzi>
+    <pinyin>dì</pinyin>
+    <ID>299</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>čtverec, směr</jieke>
+    <hanzi>方</hanzi>
+    <pinyin>fāng</pinyin>
+    <ID>300</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>místo</jieke>
+    <hanzi>地方</hanzi>
+    <pinyin>dì fang</pinyin>
+    <ID>301</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>město</jieke>
+    <hanzi>城市</hanzi>
+    <pinyin>chéng shì</pinyin>
+    <ID>302</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hajzl, grázl</jieke>
+    <hanzi>王八蛋</hanzi>
+    <pinyin>wáng bā dàn</pinyin>
+    <ID>304</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>veselý, hudba</jieke>
+    <hanzi>乐</hanzi>
+    <pinyin>yuè</pinyin>
+    <ID>305</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hudba</jieke>
+    <hanzi>音乐</hanzi>
+    <pinyin>yīn yuè</pinyin>
+    <ID>306</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ptáček</jieke>
+    <hanzi>鸟</hanzi>
+    <pinyin>niăo</pinyin>
+    <ID>307</ID>
+    <lesson>7</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jüan</jieke>
+    <hanzi>元</hanzi>
+    <pinyin>yuán</pinyin>
+    <ID>308</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kus, jüan (hovor.)</jieke>
+    <hanzi>块</hanzi>
+    <pinyin>kuài</pinyin>
+    <ID>309</ID>
+    <lesson>8</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>desetník</jieke>
+    <hanzi>角</hanzi>
+    <pinyin>jiăo</pinyin>
+    <ID>310</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>měna</jieke>
+    <hanzi>币</hanzi>
+    <pinyin>bì</pinyin>
+    <ID>311</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>RMB</jieke>
+    <hanzi>人民币</hanzi>
+    <pinyin>rén mín bì</pinyin>
+    <ID>312</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>euro, €</jieke>
+    <hanzi>欧元</hanzi>
+    <pinyin>ōu yuán</pinyin>
+    <ID>313</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dolar, $</jieke>
+    <hanzi>美元</hanzi>
+    <pinyin>mĕi yuán</pinyin>
+    <ID>314</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>nemoc, vada</jieke>
+    <hanzi>病</hanzi>
+    <pinyin>bìng</pinyin>
+    <ID>315</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vada</jieke>
+    <hanzi>毛病</hanzi>
+    <pinyin>máo bìng</pinyin>
+    <ID>316</ID>
+    <lesson>8</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>pes</jieke>
+    <hanzi>狗</hanzi>
+    <pinyin>gŏu</pinyin>
+    <ID>317</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>lev</jieke>
+    <hanzi>狮子</hanzi>
+    <pinyin>shī zi</pinyin>
+    <ID>1212</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Pekinéz (lev)</jieke>
+    <hanzi>狮子狗</hanzi>
+    <pinyin>shī zi gŏu</pinyin>
+    <ID>1213</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Pekinéz</jieke>
+    <hanzi>北京狗</hanzi>
+    <pinyin>bĕi jīng gŏu</pinyin>
+    <ID>318</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>chacha</jieke>
+    <hanzi>哈哈</hanzi>
+    <pinyin>hā hā</pinyin>
+    <ID>319</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dojem, pocit</jieke>
+    <hanzi>印像</hanzi>
+    <pinyin>yìn xiàng</pinyin>
+    <ID>320</ID>
+    <lesson>8</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>jazyk, kultura</jieke>
+    <hanzi>文</hanzi>
+    <pinyin>wén</pinyin>
+    <ID>321</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vyjít, vzniknout, ven</jieke>
+    <hanzi>出</hanzi>
+    <pinyin>chū</pinyin>
+    <ID>322</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>místo narození</jieke>
+    <hanzi>出生地</hanzi>
+    <pinyin>chū shēng dì</pinyin>
+    <ID>323</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tělo, osoba</jieke>
+    <hanzi>身</hanzi>
+    <pinyin>shēn</pinyin>
+    <ID>324</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>výška</jieke>
+    <hanzi>高</hanzi>
+    <pinyin>gāo (kō)</pinyin>
+    <ID>325</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>osobní výška</jieke>
+    <hanzi>身高</hanzi>
+    <pinyin>shēn gāo</pinyin>
+    <ID>326</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>milovat</jieke>
+    <hanzi>爱</hanzi>
+    <pinyin>aì</pinyin>
+    <ID>327</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mít rád</jieke>
+    <hanzi>喜欢</hanzi>
+    <pinyin>xĭ huān</pinyin>
+    <ID>328</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hlad, hladový</jieke>
+    <hanzi>饿</hanzi>
+    <pinyin>e</pinyin>
+    <ID>329</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>žízeň, žíznivý</jieke>
+    <hanzi>渴</hanzi>
+    <pinyin>kĕ</pinyin>
+    <ID>330</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dlouhý</jieke>
+    <hanzi>长</hanzi>
+    <pinyin>cháng</pinyin>
+    <ID>331</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Velká zeď</jieke>
+    <hanzi>长城</hanzi>
+    <pinyin>cháng chéng</pinyin>
+    <ID>332</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>10 tisíc km</jieke>
+    <hanzi>万里</hanzi>
+    <pinyin>wàn le</pinyin>
+    <ID>333</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vzduch, plyn</jieke>
+    <hanzi>汽</hanzi>
+    <pinyin>qì</pinyin>
+    <ID>334</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>lakomý</jieke>
+    <hanzi>小汽</hanzi>
+    <pinyin>xiăo qì</pinyin>
+    <ID>335</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>řídit auto</jieke>
+    <hanzi>开车</hanzi>
+    <pinyin>kāi chē</pinyin>
+    <ID>336</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>auto</jieke>
+    <hanzi>汽车</hanzi>
+    <pinyin>qì chē</pinyin>
+    <ID>337</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>veřejný</jieke>
+    <hanzi>公共</hanzi>
+    <pinyin>gōng gòng</pinyin>
+    <ID>338</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>autobus</jieke>
+    <hanzi>公共汽车</hanzi>
+    <pinyin>gōng gòng qì chē</pinyin>
+    <ID>339</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kupovat, nakupovat</jieke>
+    <hanzi>买</hanzi>
+    <pinyin>măi</pinyin>
+    <ID>340</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>prodávat</jieke>
+    <hanzi>卖</hanzi>
+    <pinyin>mài</pinyin>
+    <ID>341</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>východ</jieke>
+    <hanzi>东</hanzi>
+    <pinyin>dōng</pinyin>
+    <ID>342</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Tokio</jieke>
+    <hanzi>东京</hanzi>
+    <pinyin>dōng jīng</pinyin>
+    <ID>343</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>oh!</jieke>
+    <hanzi>噢</hanzi>
+    <pinyin>ō</pinyin>
+    <ID>344</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>unavený</jieke>
+    <hanzi>累</hanzi>
+    <pinyin>lèi</pinyin>
+    <ID>345</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>žák, bojovník, rytíř</jieke>
+    <hanzi>士</hanzi>
+    <pinyin>shì</pinyin>
+    <ID>1312</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>taxi</jieke>
+    <hanzi>的士</hanzi>
+    <pinyin>dī shì</pinyin>
+    <ID>346</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vzít taxi, zavolat taxi</jieke>
+    <hanzi>打的</hanzi>
+    <pinyin>dă dī</pinyin>
+    <ID>347</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>nabrat vodu</jieke>
+    <hanzi>打水</hanzi>
+    <pinyin>dă shuĭ</pinyin>
+    <ID>348</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mlátit, zmlátit (lidi)</jieke>
+    <hanzi>打人</hanzi>
+    <pinyin>dă rén</pinyin>
+    <ID>349</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>věc, věci</jieke>
+    <hanzi>东西</hanzi>
+    <pinyin>dōng xi</pinyin>
+    <ID>350</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>stěžovat si</jieke>
+    <hanzi>诉</hanzi>
+    <pinyin>sù</pinyin>
+    <ID>1401</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>povědět (tell)</jieke>
+    <hanzi>告诉</hanzi>
+    <pinyin>gào su</pinyin>
+    <ID>351</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>říci, říkat (say)</jieke>
+    <hanzi>说</hanzi>
+    <pinyin>shuō</pinyin>
+    <ID>352</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vyprávět</jieke>
+    <hanzi>说话</hanzi>
+    <pinyin>shuō huà</pinyin>
+    <ID>353</ID>
+    <lesson>8</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>řidič</jieke>
+    <hanzi>司机</hanzi>
+    <pinyin>sī jī (stí)</pinyin>
+    <ID>354</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>směr, princip, Tao</jieke>
+    <hanzi>道</hanzi>
+    <pinyin>dào</pinyin>
+    <ID>355</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vědět, znát</jieke>
+    <hanzi>知道</hanzi>
+    <pinyin>zhī dao</pinyin>
+    <ID>356</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vždy, stále, přímo</jieke>
+    <hanzi>一直</hanzi>
+    <pinyin>yì zhí</pinyin>
+    <ID>357</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zjednodušené znaky</jieke>
+    <hanzi>简体字</hanzi>
+    <pinyin>jiăn tĭ zì</pinyin>
+    <ID>358</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>složité znaky</jieke>
+    <hanzi>繁体字</hanzi>
+    <pinyin>fán tĭ zì</pinyin>
+    <ID>359</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zahrada</jieke>
+    <hanzi>花园</hanzi>
+    <pinyin>huā yuán</pinyin>
+    <ID>360</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>krásný, krásná</jieke>
+    <hanzi>美丽</hanzi>
+    <pinyin>mĕi lì</pinyin>
+    <ID>361</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>přechod, roh</jieke>
+    <hanzi>路口</hanzi>
+    <pinyin>lù kŏu</pinyin>
+    <ID>362</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jak</jieke>
+    <hanzi>怎么</hanzi>
+    <pinyin>zĕn me</pinyin>
+    <ID>363</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>týden</jieke>
+    <hanzi>星期</hanzi>
+    <pinyin>xīng qī</pinyin>
+    <ID>364</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>týden</jieke>
+    <hanzi>礼拜</hanzi>
+    <pinyin>lĭ bài</pinyin>
+    <ID>365</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>oheň</jieke>
+    <hanzi>火</hanzi>
+    <pinyin>huŏ</pinyin>
+    <ID>366</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zvíře</jieke>
+    <hanzi>动物</hanzi>
+    <pinyin>dòng wù</pinyin>
+    <ID>1319</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zoo</jieke>
+    <hanzi>动物园</hanzi>
+    <pinyin>dòng wù yuán</pinyin>
+    <ID>367</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>růst</jieke>
+    <hanzi>植</hanzi>
+    <pinyin>zhí</pinyin>
+    <ID>1316</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>rostlina, květina</jieke>
+    <hanzi>植物</hanzi>
+    <pinyin>zhí wù</pinyin>
+    <ID>1318</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>botanická zahrada</jieke>
+    <hanzi>植物园</hanzi>
+    <pinyin>zhí wù yuán</pinyin>
+    <ID>368</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>snídaně</jieke>
+    <hanzi>早饭</hanzi>
+    <pinyin>zăo fàn</pinyin>
+    <ID>369</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>oběd</jieke>
+    <hanzi>午饭</hanzi>
+    <pinyin>wŭ fàn</pinyin>
+    <ID>370</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>večeře</jieke>
+    <hanzi>晚饭</hanzi>
+    <pinyin>wăn fàn</pinyin>
+    <ID>371</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>nudle</jieke>
+    <hanzi>面条</hanzi>
+    <pinyin>miàn tiáo</pinyin>
+    <ID>372</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>ke mně</jieke>
+    <hanzi>我这里</hanzi>
+    <pinyin>wŏ zhè li</pinyin>
+    <ID>373</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>čas</jieke>
+    <hanzi>时候</hanzi>
+    <pinyin>shí hòu</pinyin>
+    <ID>374</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kdy</jieke>
+    <hanzi>什么时候</hanzi>
+    <pinyin>shén me shí hòu</pinyin>
+    <ID>375</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mnoho, hodně</jieke>
+    <hanzi>好多</hanzi>
+    <pinyin>hăo duō</pinyin>
+    <ID>376</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>manžel</jieke>
+    <hanzi>老公</hanzi>
+    <pinyin>lăo gōng</pinyin>
+    <ID>377</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>koruny</jieke>
+    <hanzi>克朗</hanzi>
+    <pinyin>kè láng</pinyin>
+    <ID>378</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kyselý, kyselina</jieke>
+    <hanzi>酸</hanzi>
+    <pinyin>suān</pinyin>
+    <ID>379</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mléko</jieke>
+    <hanzi>奶</hanzi>
+    <pinyin>năi</pinyin>
+    <ID>380</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jogurt</jieke>
+    <hanzi>酸奶</hanzi>
+    <pinyin>suān năi</pinyin>
+    <ID>381</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>otvírák</jieke>
+    <hanzi>起子</hanzi>
+    <pinyin>qĭ zi</pinyin>
+    <ID>382</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zmrzlina</jieke>
+    <hanzi>雪糕</hanzi>
+    <pinyin>xuĕ gāo</pinyin>
+    <ID>383</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jablko, jabko</jieke>
+    <hanzi>苹果</hanzi>
+    <pinyin>píng guŏ</pinyin>
+    <ID>384</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>džus</jieke>
+    <hanzi>汁儿</hanzi>
+    <pinyin>zhī r</pinyin>
+    <ID>385</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jablečný džus, mošt</jieke>
+    <hanzi>苹果汁儿</hanzi>
+    <pinyin>píng guŏ zhī r</pinyin>
+    <ID>386</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>manželka</jieke>
+    <hanzi>老婆</hanzi>
+    <pinyin>lăo pó</pinyin>
+    <ID>387</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>park</jieke>
+    <hanzi>公园</hanzi>
+    <pinyin>gōng yuán</pinyin>
+    <ID>389</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zatočit</jieke>
+    <hanzi>拐</hanzi>
+    <pinyin>guăi</pinyin>
+    <ID>390</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zastavit</jieke>
+    <hanzi>停</hanzi>
+    <pinyin>tíng</pinyin>
+    <ID>394</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>žít</jieke>
+    <hanzi>住</hanzi>
+    <pinyin>zhù</pinyin>
+    <ID>774</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>nedělat (něco)</jieke>
+    <hanzi>没要</hanzi>
+    <pinyin>méi yào</pinyin>
+    <ID>778</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>asi, přibližně</jieke>
+    <hanzi>左右</hanzi>
+    <pinyin>zuŏ yòu</pinyin>
+    <ID>783</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>příliš, mimořádně</jieke>
+    <hanzi>非常</hanzi>
+    <pinyin>fēi cháng</pinyin>
+    <ID>789</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tak</jieke>
+    <hanzi>这么</hanzi>
+    <pinyin>zhè me</pinyin>
+    <ID>798</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>levný</jieke>
+    <hanzi>便宜</hanzi>
+    <pinyin>pián yi</pinyin>
+    <ID>802</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>všechno</jieke>
+    <hanzi>什么都</hanzi>
+    <pinyin>shén me dōu</pinyin>
+    <ID>806</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>všechno</jieke>
+    <hanzi>什么也</hanzi>
+    <pinyin>shén me yĕ</pinyin>
+    <ID>814</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>minulý, předchozí</jieke>
+    <hanzi>上个</hanzi>
+    <pinyin>shàng gè</pinyin>
+    <ID>819</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>příští, další</jieke>
+    <hanzi>下个</hanzi>
+    <pinyin>xià gè</pinyin>
+    <ID>821</ID>
+    <lesson>9</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>někdy</jieke>
+    <hanzi>有时候</hanzi>
+    <pinyin>yŏu shí hòu</pinyin>
+    <ID>1533</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>restaurace</jieke>
+    <hanzi>饭店</hanzi>
+    <pinyin>fàn diàn</pinyin>
+    <ID>1176</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>trochu</jieke>
+    <hanzi>有点</hanzi>
+    <pinyin>yŏu diăn</pinyin>
+    <ID>1179</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>strašně</jieke>
+    <hanzi>极了</hanzi>
+    <pinyin>jí le</pinyin>
+    <ID>1182</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>přítelkyně</jieke>
+    <hanzi>女朋友</hanzi>
+    <pinyin>nǚ péng you</pinyin>
+    <ID>1186</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>přítel</jieke>
+    <hanzi>男朋友</hanzi>
+    <pinyin>nán péng you</pinyin>
+    <ID>1193</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tam</jieke>
+    <hanzi>那边</hanzi>
+    <pinyin>nà biān</pinyin>
+    <ID>1194</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dokončený děj (čas)</jieke>
+    <hanzi>了</hanzi>
+    <pinyin>le</pinyin>
+    <ID>1201</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>have been (čas)</jieke>
+    <hanzi>过</hanzi>
+    <pinyin>guò</pinyin>
+    <ID>1204</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>neděle</jieke>
+    <hanzi>星期日</hanzi>
+    <pinyin>xīng qī rì</pinyin>
+    <ID>1208</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>neděle</jieke>
+    <hanzi>礼拜天</hanzi>
+    <pinyin>lĭ bài tiān</pinyin>
+    <ID>1211</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>obecný, všeobecný</jieke>
+    <hanzi>普</hanzi>
+    <pinyin>pŭ</pinyin>
+    <ID>1475</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>spisovná čínština</jieke>
+    <hanzi>普通話</hanzi>
+    <pinyin>pŭ tōng huà</pinyin>
+    <ID>1214</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jídelní hůlky</jieke>
+    <hanzi>筷子</hanzi>
+    <pinyin>kuài zi</pinyin>
+    <ID>1222</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hora, kopec</jieke>
+    <hanzi>山</hanzi>
+    <pinyin>shān</pinyin>
+    <ID>1387</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>řeka</jieke>
+    <hanzi>江</hanzi>
+    <pinyin>jiāng</pinyin>
+    <ID>1391</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>provincie</jieke>
+    <hanzi>州</hanzi>
+    <pinyin>zhōu</pinyin>
+    <ID>1395</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>císař</jieke>
+    <hanzi>皇帝</hanzi>
+    <pinyin>huáng dì</pinyin>
+    <ID>1399</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>moře, oceán</jieke>
+    <hanzi>海</hanzi>
+    <pinyin>hăi</pinyin>
+    <ID>1400</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kontinent, ostrov</jieke>
+    <hanzi>洲</hanzi>
+    <pinyin>zhōu</pinyin>
+    <ID>1484</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>holčička, dívenka</jieke>
+    <hanzi>妞</hanzi>
+    <pinyin>nīu</pinyin>
+    <ID>1485</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>čínština</jieke>
+    <hanzi>汉语</hanzi>
+    <pinyin>hàn yǚ</pinyin>
+    <ID>1487</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>čínština</jieke>
+    <hanzi>中文</hanzi>
+    <pinyin>zhōng wén</pinyin>
+    <ID>1488</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>navštívit</jieke>
+    <hanzi>去看</hanzi>
+    <pinyin>qǜ kàn</pinyin>
+    <ID>1489</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>přístřeší, dům</jieke>
+    <hanzi>阁</hanzi>
+    <pinyin>gé</pinyin>
+    <ID>1490</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>povstat, povýšit</jieke>
+    <hanzi>升</hanzi>
+    <pinyin>shēng</pinyin>
+    <ID>1493</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>moci (may)</jieke>
+    <hanzi>能</hanzi>
+    <pinyin>néng</pinyin>
+    <ID>1494</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>schopen (able)</jieke>
+    <hanzi>会</hanzi>
+    <pinyin>huì</pinyin>
+    <ID>1505</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>chtít, přát si, myslet</jieke>
+    <hanzi>想</hanzi>
+    <pinyin>xiăng</pinyin>
+    <ID>1499</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>odpovědět</jieke>
+    <hanzi>答</hanzi>
+    <pinyin>dá</pinyin>
+    <ID>1504</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vítr</jieke>
+    <hanzi>风</hanzi>
+    <pinyin>fēng</pinyin>
+    <ID>1508</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>svatba</jieke>
+    <hanzi>婚礼</hanzi>
+    <pinyin>hūn lĭ</pinyin>
+    <ID>1509</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>třást, šok</jieke>
+    <hanzi>震</hanzi>
+    <pinyin>zhèn</pinyin>
+    <ID>1511</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zemětřesení</jieke>
+    <hanzi>地震</hanzi>
+    <pinyin>dì zhèn</pinyin>
+    <ID>1513</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>voňavý</jieke>
+    <hanzi>香</hanzi>
+    <pinyin>xiāng</pinyin>
+    <ID>1514</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>přístav</jieke>
+    <hanzi>港</hanzi>
+    <pinyin>găng</pinyin>
+    <ID>1515</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>Hongkong</jieke>
+    <hanzi>香港</hanzi>
+    <pinyin>xiāng găng</pinyin>
+    <ID>1516</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>medvěd</jieke>
+    <hanzi>熊</hanzi>
+    <pinyin>xióng</pinyin>
+    <ID>1521</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>kočka</jieke>
+    <hanzi>猫</hanzi>
+    <pinyin>māo</pinyin>
+    <ID>1520</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>panda</jieke>
+    <hanzi>熊猫</hanzi>
+    <pinyin>xióng māo</pinyin>
+    <ID>1518</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>potok, horské údolí</jieke>
+    <hanzi>川</hanzi>
+    <pinyin>chuān</pinyin>
+    <ID>1527</ID>
+    <lesson>10</lesson>
+    <learned>false</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>sto</jieke>
+    <hanzi>百</hanzi>
+    <pinyin>băi</pinyin>
+    <ID>1539</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>tisíc</jieke>
+    <hanzi>千</hanzi>
+    <pinyin>qiān</pinyin>
+    <ID>1542</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>deset tisíc</jieke>
+    <hanzi>万</hanzi>
+    <pinyin>wàn</pinyin>
+    <ID>1543</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>sto miliónů</jieke>
+    <hanzi>亿</hanzi>
+    <pinyin>yì</pinyin>
+    <ID>1544</ID>
+    <lesson>10</lesson>
+    <learned>false</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>bilión</jieke>
+    <hanzi>兆</hanzi>
+    <pinyin>zhào</pinyin>
+    <ID>1545</ID>
+    <lesson>10</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>nula</jieke>
+    <hanzi>零</hanzi>
+    <pinyin>líng</pinyin>
+    <ID>1559</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>mínus</jieke>
+    <hanzi>负</hanzi>
+    <pinyin>fù</pinyin>
+    <ID>1562</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dvě třetiny, 2/3</jieke>
+    <hanzi>三分之二</hanzi>
+    <pinyin>sān fén zhī èr</pinyin>
+    <ID>1564</ID>
+    <lesson>10</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>popsat, znázornit</jieke>
+    <hanzi>描</hanzi>
+    <pinyin>miáo</pinyin>
+    <ID>1563</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>učit se, studovat, věda</jieke>
+    <hanzi>学</hanzi>
+    <pinyin>xué</pinyin>
+    <ID>2004</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dělat, činit</jieke>
+    <hanzi>作</hanzi>
+    <pinyin>zuò</pinyin>
+    <ID>2009</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>každý den</jieke>
+    <hanzi>天天</hanzi>
+    <pinyin>tiān tiān</pinyin>
+    <ID>2012</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>předtím, dříve, předek</jieke>
+    <hanzi>前</hanzi>
+    <pinyin>qián</pinyin>
+    <ID>2015</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>připravit se, připravit</jieke>
+    <hanzi>备</hanzi>
+    <pinyin>beì</pinyin>
+    <ID>2023</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>psát</jieke>
+    <hanzi>写</hanzi>
+    <pinyin>xiĕ</pinyin>
+    <ID>2024</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>věta</jieke>
+    <hanzi>句子</hanzi>
+    <pinyin>jǜ zi</pinyin>
+    <ID>2028</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>meč</jieke>
+    <hanzi>剑</hanzi>
+    <pinyin>jiàn</pinyin>
+    <ID>2032</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>osobně vyzkoušený</jieke>
+    <hanzi>手把手</hanzi>
+    <pinyin>shŏu bă shŏu</pinyin>
+    <ID>2035</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>pozor</jieke>
+    <hanzi>注意</hanzi>
+    <pinyin>zhù yì</pinyin>
+    <ID>2040</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vysvětlení</jieke>
+    <hanzi>注解</hanzi>
+    <pinyin>zhù jiĕ</pinyin>
+    <ID>2043</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>husa</jieke>
+    <hanzi>鸿</hanzi>
+    <pinyin>hóng</pinyin>
+    <ID>2044</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>labuť</jieke>
+    <hanzi>鹄</hanzi>
+    <pinyin>gŭ</pinyin>
+    <ID>2045</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>pas</jieke>
+    <hanzi>护照</hanzi>
+    <pinyin>hù zhaò</pinyin>
+    <ID>2046</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vízum</jieke>
+    <hanzi>签证</hanzi>
+    <pinyin>qiān zhèng</pinyin>
+    <ID>2049</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>letenka</jieke>
+    <hanzi>机票</hanzi>
+    <pinyin>jī piào</pinyin>
+    <ID>2050</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dělat, činit, pracovat</jieke>
+    <hanzi>做</hanzi>
+    <pinyin>zuò</pinyin>
+    <ID>2052</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>navštívit</jieke>
+    <hanzi>访</hanzi>
+    <pinyin>făng</pinyin>
+    <ID>2055</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zůstat, hloupý, blbý</jieke>
+    <hanzi>呆</hanzi>
+    <pinyin>dāi</pinyin>
+    <ID>2058</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>doba, lhůta, období</jieke>
+    <hanzi>时间</hanzi>
+    <pinyin>shí jiān</pinyin>
+    <ID>2062</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>přinést</jieke>
+    <hanzi>拿</hanzi>
+    <pinyin>ná</pinyin>
+    <ID>2063</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vzít</jieke>
+    <hanzi>取</hanzi>
+    <pinyin>qǚ</pinyin>
+    <ID>2064</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>zavazadlo</jieke>
+    <hanzi>行李</hanzi>
+    <pinyin>xíng li</pinyin>
+    <ID>2065</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>přenosný</jieke>
+    <hanzi>手提</hanzi>
+    <pinyin>shŏu tí</pinyin>
+    <ID>2066</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>torna, ruksak</jieke>
+    <hanzi>背包</hanzi>
+    <pinyin>bēi bāo</pinyin>
+    <ID>2068</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>dárek</jieke>
+    <hanzi>礼品</hanzi>
+    <pinyin>lĭ pĭn</pinyin>
+    <ID>2069</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vyměnit, změnit</jieke>
+    <hanzi>换</hanzi>
+    <pinyin>huàn</pinyin>
+    <ID>2071</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vyplnit</jieke>
+    <hanzi>填</hanzi>
+    <pinyin>tián</pinyin>
+    <ID>2073</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>formulář</jieke>
+    <hanzi>单</hanzi>
+    <pinyin>dān</pinyin>
+    <ID>2074</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>stvrzenka, účet</jieke>
+    <hanzi>发票</hanzi>
+    <pinyin>fā piào</pinyin>
+    <ID>2075</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>vyřídit, zařídit</jieke>
+    <hanzi>办</hanzi>
+    <pinyin>bàn</pinyin>
+    <ID>2076</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>opradu, skutečně</jieke>
+    <hanzi>真</hanzi>
+    <pinyin>zhēn</pinyin>
+    <ID>2079</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>hned, okamžitě</jieke>
+    <hanzi>马上</hanzi>
+    <pinyin>mă shàng</pinyin>
+    <ID>2083</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>jednou, najednou</jieke>
+    <hanzi>一下</hanzi>
+    <pinyin>yī xià</pinyin>
+    <ID>2084</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>změnit, udělat výjimku</jieke>
+    <hanzi>变</hanzi>
+    <pinyin>biàn</pinyin>
+    <ID>2085</ID>
+    <lesson>11</lesson>
+    <learned>true</learned>
+    <tested>1</tested>
+  </Main>
+  <Main>
+    <jieke>rozumět</jieke>
+    <hanzi>了解</hanzi>
+    <pinyin>liăo jiĕ</pinyin>
+    <ID>2086</ID>
+    <lesson>11</lesson>
+    <learned>false</learned>
+    <tested>0</tested>
+  </Main>
+  <Main>
+    <jieke>letiště</jieke>
+    <hanzi>飞机场</hanzi>
+    <pinyin>fēi jī chăng</pinyin>
+    <ID>2087</ID>
+    <lesson>11</lesson>
+    <learned>false</learned>
+    <tested>1</tested>
+  </Main>
+</Dictionary>
